@@ -1,0 +1,2 @@
+# cryptoparivaar
+cryptominign
